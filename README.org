@@ -1,0 +1,10 @@
+* clem
+
+A matrix library for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/clem.git   |
+| commit  | a2a9a76  |
+| systems | clem |
+|---------+-------------------------------------------|
+
